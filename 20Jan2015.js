@@ -8,7 +8,12 @@
     //services are singletons obstantiated once and
     //helps with modularity(take the parts of your app that are common and pass a module(perameters) into them)
     //testability ()
-  //four usefull methods for services
+
+  //Services
+    //heavy logic goes inside
+      //keeps controllers 'skinny'
+      //data inside can be used by multiple controlers
+  //Injecticting Services into controlers
     //value
       //
     //factory
