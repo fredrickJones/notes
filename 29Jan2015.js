@@ -23,3 +23,10 @@
 // nothing in the browser is secret/secure
   // NEVER PUT ANYTHING SECRET ON THE BROWSER
 // 
+
+
+// ANGULAR FORMLY
+  // formly-js.github.io/angular-formly/#/
+  // generally you want to use your own templates
+  // in prebuilt templates almost everything is watched
+  // 
